@@ -1,4 +1,4 @@
-# testing-agents
+# Testing Agents
 
 Sample repository for learning Git and diff review.
 
