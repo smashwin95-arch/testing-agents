@@ -1,0 +1,3 @@
+APP_NAME=testing-agents
+APP_ENV=development
+LOG_LEVEL=info
