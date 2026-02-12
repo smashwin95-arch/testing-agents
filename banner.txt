@@ -1,0 +1,3 @@
+Login Banner Draft
+- Add welcome line for signed-in users
+- Show quick links to dashboard and settings
